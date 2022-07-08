@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Waypoints",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "000", "description": "PATALLACTA" }, "geometry": { "type": "LineString", "coordinates": [ -72.423155419528484, -13.235121248289939 ] } },
+{ "type": "Feature", "properties": { "Name": "001", "description": "DAY2CHECK2" }, "geometry": { "type": "LineString", "coordinates": [ -72.449905006214976, -13.264290019869801 ] } },
+{ "type": "Feature", "properties": { "Name": "002", "description": "DEAD WOMENS PASS" }, "geometry": { "type": "LineString", "coordinates": [ -72.484005019068718, -13.24310501106083 ] } },
+{ "type": "Feature", "properties": { "Name": "003", "description": "CAMP DAY2" }, "geometry": { "type": "LineString", "coordinates": [ -72.498304964974523, -13.233720967546111 ] } },
+{ "type": "Feature", "properties": { "Name": "004", "description": "START DAY3" }, "geometry": { "type": "LineString", "coordinates": [ -72.49829800799489, -13.233771007508039 ] } },
+{ "type": "Feature", "properties": { "Name": "005", "description": "RUNKUAKAI" }, "geometry": { "type": "LineString", "coordinates": [ -72.501495033502579, -13.228331990540029 ] } },
+{ "type": "Feature", "properties": { "Name": "006", "description": "RUNKUAKI PASS" }, "geometry": { "type": "LineString", "coordinates": [ -72.505334028974175, -13.22670799680054 ] } },
+{ "type": "Feature", "properties": { "Name": "007", "description": "SAYAQ" }, "geometry": { "type": "LineString", "coordinates": [ -72.516487995162606, -13.228174997493619 ] } },
+{ "type": "Feature", "properties": { "Name": "008", "description": "DAY3 LUNCH" }, "geometry": { "type": "LineString", "coordinates": [ -72.518866024911404, -13.22304300963879 ] } },
+{ "type": "Feature", "properties": { "Name": "009", "description": "INKA TUNNEL" }, "geometry": { "type": "LineString", "coordinates": [ -72.524215020239353, -13.216035990044469 ] } },
+{ "type": "Feature", "properties": { "Name": "010", "description": "PUYU" }, "geometry": { "type": "LineString", "coordinates": [ -72.531702993437648, -13.20639797486365 ] } },
+{ "type": "Feature", "properties": { "Name": "011", "description": "INKA TUNNEL2" }, "geometry": { "type": "LineString", "coordinates": [ -72.538577998057008, -13.201636970043181 ] } },
+{ "type": "Feature", "properties": { "Name": "012", "description": "CAMP3" }, "geometry": { "type": "LineString", "coordinates": [ -72.537458008155227, -13.18983600474894 ] } },
+{ "type": "Feature", "properties": { "Name": "013", "description": "SUN GATE" }, "geometry": { "type": "LineString", "coordinates": [ -72.533915983512998, -13.16966897808015 ] } },
+{ "type": "Feature", "properties": { "Name": "014", "description": null }, "geometry": { "type": "LineString", "coordinates": [ -72.539273025467992, -13.170145992189649 ] } },
+{ "type": "Feature", "properties": { "Name": "015", "description": null }, "geometry": { "type": "LineString", "coordinates": [ -72.542580021545291, -13.168258974328641 ] } },
+{ "type": "Feature", "properties": { "Name": "016", "description": null }, "geometry": { "type": "LineString", "coordinates": [ -72.543067010119557, -13.1678859796375 ] } },
+{ "type": "Feature", "properties": { "Name": "017", "description": null }, "geometry": { "type": "LineString", "coordinates": [ -72.543354006484151, -13.167470991611481 ] } },
+{ "type": "Feature", "properties": { "Name": "018", "description": "HUAYNA PICCHU" }, "geometry": { "type": "LineString", "coordinates": [ -72.545859022065997, -13.15663201734424 ] } }
+]
+}
